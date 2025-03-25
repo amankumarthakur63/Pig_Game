@@ -43,6 +43,9 @@ The game logic is implemented in [script.js](script.js), including:
 
 ### Game Layout
 ![Game Layout](pig-game-flowchart.png)
+![Screenshot 2025-03-25 204047](https://github.com/user-attachments/assets/d11d23df-64ad-49ac-b772-b7ed8116578e)
+![Screenshot 2025-03-25 213838](https://github.com/user-attachments/assets/b7a220fd-c7b0-4395-9620-3c1492d4f391)
+
 
 ## 💡 Key Highlights
 
